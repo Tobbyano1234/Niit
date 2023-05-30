@@ -1,6 +1,6 @@
-# MainStack-backend
+# NIIT-backend
 
-E-Commerce API
+Phone Repair Store API
 Using Nodejs, Typescript, Express and MongoDB, build a simple ecommerce API with the following features:
 
 1. Create, get all and get single product
